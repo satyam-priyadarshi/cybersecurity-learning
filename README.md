@@ -1,5 +1,5 @@
 # cybersecurity-learning
-Completed Rooms
+Completed Rooms(TryHackMe)
 -Juniour Security Analyst Intro
 -Linux Fundamental Part 1
 -What Is Networking

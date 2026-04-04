@@ -4,3 +4,4 @@ Completed Rooms(TryHackMe)
 -Linux Fundamental Part 1
 -What Is Networking
 -SOC Fundamental
+-SOC Role In Blue Team

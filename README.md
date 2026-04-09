@@ -6,3 +6,4 @@ Completed Rooms(TryHackMe)
 -SOC Fundamental
 -SOC Role In Blue Team
 -SOC L1 Alert Triage
+-SOC L1 Alert Reporting

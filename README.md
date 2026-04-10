@@ -7,3 +7,4 @@ Completed Rooms(TryHackMe)
 -SOC Role In Blue Team
 -SOC L1 Alert Triage
 -SOC L1 Alert Reporting
+-Introduction to Phishing

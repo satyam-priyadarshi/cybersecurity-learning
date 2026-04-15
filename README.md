@@ -9,3 +9,4 @@ Completed Rooms(TryHackMe)
 -SOC L1 Alert Reporting
 -Introduction to Phishing
 -Introduction to EDR
+-Introduction to SIEM

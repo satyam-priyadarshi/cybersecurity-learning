@@ -1,5 +1,4 @@
-# cybersecurity-learning
-Completed Rooms(TryHackMe)
+# TryHackMe-Writeups
 -Juniour Security Analyst Intro
 -Linux Fundamental Part 1
 -What Is Networking

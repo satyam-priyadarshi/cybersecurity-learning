@@ -10,3 +10,4 @@
 -Introduction to Phishing
 -Introduction to EDR
 -Introduction to SIEM
+-Web Security Essential
